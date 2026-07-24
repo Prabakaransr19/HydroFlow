@@ -1,0 +1,27 @@
+# Backend (Maven/Java)
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Frontend (Node/React)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+
+# Environment/secrets
+.env
+*.env.local
+application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db

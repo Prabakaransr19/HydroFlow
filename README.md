@@ -2,7 +2,7 @@
 ### Web-Based Water Consumption & Billing Management Platform
 ### *"Because nobody should still be tracking water usage in a notebook in 2026."*
 
-> Built during the **Infosys Springboard Java Full Stack Internship** (May 2026 – Present)  
+> Built during the **Infosys Springboard Java Full Stack Internship** (Jul. 2026 – Sept. 2026)  
 > Where I learned that Spring Boot has more configuration files than I have patience.
 
 ---
@@ -12,17 +12,6 @@
 **HydroFlow** is a full-stack web platform that helps residents and utility administrators track **water consumption** and manage **billing** in one place. It replaces manual, paper-based tracking with a connected system — residents can monitor their usage, and administrators can manage billing cycles and resident records, all backed by a relational database that doesn't forget things the way a clipboard does.
 
 Built as part of a structured Agile internship, with features delivered incrementally across sprints rather than in one heroic, sleep-deprived release.
-
----
-
-## ✨ Features
-
-- 📊 **Consumption Tracking** — records and displays household water usage over time, so nobody has to guess whether they used 500 liters or 5,000
-- 🧾 **Billing Management** — generates and manages billing based on actual consumption data, not vibes
-- 👤 **Resident Records** — maintains resident and household data in a structured database instead of a spreadsheet named `final_FINAL_v2.xlsx`
-- 🔗 **REST API Backend** — Spring Boot services exposing clean endpoints for the frontend to actually talk to
-- 🖥️ **Responsive Frontend** — React-based interface for residents and administrators that doesn't look like it's from 2009
-- 🗄️ **Persistent Storage** — PostgreSQL for reliable, relational data management that survives a server restart (revolutionary, I know)
 
 ---
 
@@ -58,7 +47,7 @@ HydroFlow/
 - Java 17+ and Maven
 - Node.js and npm
 - PostgreSQL
-- Patience (optional but historically recommended for Spring Boot projects)
+- Patience (optional but recommended for Spring Boot projects)
 
 ### Backend Setup
 
@@ -100,7 +89,7 @@ Translation: no big-bang releases, no "it'll definitely work in production" mome
 ## 📬 Contact
 
 - **GitHub:** [@Prabakaransr19](https://github.com/Prabakaransr19)
-- **Portfolio:** [prabakaran-portfolio-two.vercel.app](https://prabakaran-portfolio-two.vercel.app)
+- **Portfolio:** [prabakaran-sr-me](#placeholder)
 
 ---
 
@@ -112,6 +101,6 @@ This project was developed for internship and educational purposes under the Inf
 
 <p align="center">
   <i>Because tracking water usage shouldn't still run on paper registers and guesswork.</i><br><br>
-  Built with ☕ one too many cups of coffee, 🧾 a healthy respect for billing edge cases, and Spring Boot's endless config files<br><br>
+  Built with ☕, too many cups of coffee, 🧾 a healthy respect for billing edge cases, and Spring Boot's endless config files<br><br>
   — Prabakaran, somewhere between a sprint review and a PostgreSQL query that finally worked
 </p>

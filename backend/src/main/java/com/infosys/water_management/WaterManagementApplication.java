@@ -1,5 +1,6 @@
 package com.infosys.water_management;
 
+import com.infosys.water_management.model.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

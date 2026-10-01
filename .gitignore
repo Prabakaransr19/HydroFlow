@@ -1,27 +1,17 @@
-# Backend (Maven/Java)
-backend/target/
-backend/.mvn/wrapper/maven-wrapper.jar
-*.class
-
-# IntelliJ
-.idea/
-*.iml
-out/
-
-# VS Code
-.vscode/
-
-# Frontend (Node/React)
+# Frontend (Node/React) - not needed until Sprint 3
 frontend/node_modules/
 frontend/dist/
 frontend/build/
 frontend/.env
+frontend/.env.local
 
-# Environment/secrets
+# Secrets / environment-specific configs
 .env
 *.env.local
 application-local.properties
+backend/src/main/resources/application-local.properties
 
-# OS
+# OS junk
 .DS_Store
 Thumbs.db
+desktop.ini
